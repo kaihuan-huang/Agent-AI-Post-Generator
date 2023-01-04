@@ -1,9 +1,9 @@
-##OPEN API STUFF
-OPENAI_API_KEY = 'enter-api-key'
+## OPEN API 
+OPENAI_API_KEY = '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'
 
 
 
-## FLASK STUFF
+## FLASK 
 class Config(object):
     DEBUG = True
     TESTING = False

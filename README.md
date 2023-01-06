@@ -53,6 +53,7 @@ Contributors should read the installation section.
 - [Python]()
 - [OpenAI]()
 - [Flask]()
+- [Bootstrap]()
 
 
 ## Questions
